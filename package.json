@@ -1,0 +1,13 @@
+{
+  "name": "astolfo",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "author": "OfficialMe",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "discord bot, possibly even with a small rpg game I dunno",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
